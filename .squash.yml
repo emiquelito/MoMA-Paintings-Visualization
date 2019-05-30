@@ -1,0 +1,5 @@
+deployments:
+  MoMa:
+    vm_size: 1
+    auto_deploy_on_commits: true
+    filename: ./docker-compose.yml
